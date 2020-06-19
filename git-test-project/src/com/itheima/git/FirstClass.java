@@ -6,6 +6,9 @@ public class FirstClass {
     }
 
 
-    public  nane 
+    public  void name(){
+
+        System.out.println("name");
+    }
 
 }
